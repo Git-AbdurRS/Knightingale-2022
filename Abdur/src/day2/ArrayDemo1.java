@@ -1,5 +1,5 @@
 package day2;
-
+//Single dimentional array
 public class ArrayDemo1 {
      public static void main(String[] args) {
     	 int []arr= {100,34,56,8,6,34};//
